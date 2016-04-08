@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Josh Matz</title>
+    <link>http://joshmatz.com/</link>
+    <description>Recent content on Josh Matz</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://joshmatz.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Your content can wait</title>
-      <link>/post/your-content-can-wait/</link>
+      <link>http://joshmatz.com/post/your-content-can-wait/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/your-content-can-wait/</guid>
+      <guid>http://joshmatz.com/post/your-content-can-wait/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Good content doesn’t need to be published immediately.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a week ago I re-discovered Buffer, an app that lets users easily schedule their social media content to be published at a later date. I didn’t think much of it until I started using it consistently. A week in and I’m now a paying user. Not only that, it’s made me wonder how we can apply Buffer’s principles to any content.&lt;/p&gt;
@@ -28,10 +29,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://joshmatz.com/about/</link>
       <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://joshmatz.com/about/</guid>
       <description>&lt;p&gt;Hello there! I’m Josh Matz and I’m currently living in Austin, Texas with my wife, Rachael Matz, and dog Kindle. (There’s also a cat, Tonks, but I let Rachael take ownership of him.)&lt;/p&gt;
 
 &lt;p&gt;I’m a self taught web developer and received a BFA in Graphic Design at Baylor University. I’m currently working at &lt;a href=&#34;http://www.invisionapp.com&#34;&gt;InVision&lt;/a&gt; where I help make the world&amp;rsquo;s leading prototyping, collaboration &amp;amp; workflow platform. Previous employers include &lt;a href=&#34;https://srcclr.com&#34;&gt;SourceClear&lt;/a&gt; (a security startup) and &lt;a href=&#34;http://www.springbox.com&#34;&gt;Springbox&lt;/a&gt; (a digital agency).&lt;/p&gt;
@@ -42,10 +43,10 @@
     
     <item>
       <title>Modern European Art Timeline</title>
-      <link>/mea_timeline/</link>
+      <link>http://joshmatz.com/mea_timeline/</link>
       <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
       
-      <guid>/mea_timeline/</guid>
+      <guid>http://joshmatz.com/mea_timeline/</guid>
       <description>
 
 &lt;p&gt;Hi there! If you found this page, my guess it&amp;rsquo;s not what you&amp;rsquo;re looking for! Sorry about that. Feel free to skip the story below and go straight to the real &lt;a href=&#34;http://jmhosting.space/mea_timeline&#34;&gt;modern European art timeline&lt;/a&gt;. Otherwise, here&amp;rsquo;s some background on the timeline you&amp;rsquo;re using!&lt;/p&gt;

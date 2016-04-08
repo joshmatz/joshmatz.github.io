@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/post/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Josh Matz</title>
+    <link>http://joshmatz.com/post/</link>
+    <description>Recent content in Posts on Josh Matz</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://joshmatz.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Your content can wait</title>
-      <link>/post/your-content-can-wait/</link>
+      <link>http://joshmatz.com/post/your-content-can-wait/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/your-content-can-wait/</guid>
+      <guid>http://joshmatz.com/post/your-content-can-wait/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Good content doesn’t need to be published immediately.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a week ago I re-discovered Buffer, an app that lets users easily schedule their social media content to be published at a later date. I didn’t think much of it until I started using it consistently. A week in and I’m now a paying user. Not only that, it’s made me wonder how we can apply Buffer’s principles to any content.&lt;/p&gt;
