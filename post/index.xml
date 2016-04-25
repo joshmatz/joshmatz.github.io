@@ -6,8 +6,25 @@
     <description>Recent content in Posts on Josh Matz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2016 12:21:39 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 10:55:53 -0500</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Should you shrinkwrap your node_modules?</title>
+      <link>/post/should-you-shrinkwrap-your-node_modules/</link>
+      <pubDate>Mon, 25 Apr 2016 10:55:53 -0500</pubDate>
+      
+      <guid>/post/should-you-shrinkwrap-your-node_modules/</guid>
+      <description>&lt;p&gt;Are you trying to determine if you should be running npm shrinkwrap? Here’s two handy questions to ask yourself:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When I deploy my code remotely, does npm install run?&lt;/li&gt;
+&lt;li&gt;Does my team have at least one individual running npm install more than once a month? (New environment set up, fixing an environment, new dependencies being added, etc.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you answered yes to either of the above questions, you should probably be shrinkwrapping your dependencies.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Take Note</title>
